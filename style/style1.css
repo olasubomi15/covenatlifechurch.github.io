@@ -1,0 +1,16 @@
+body {
+    background-image:url('images/background.png');
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header {
+    background-color: rgb(77, 1, 177);
+    font-family: bahnshcrift, bahnshcrift, bahnschrift;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    padding: 30px;
+    display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
